@@ -9,8 +9,8 @@ If u want to encrypt and decrypt biosignals you need to download python, then pi
 2. Follow the message boxes that appear in the screen
 # Description
 Used following python Libraries.
-•	‘Crypto.cipher’ python library for secure communication
-•	PyCryptodome 3.17 package for cryptographic features such as DES3
-•	PIL Library for image processing
-•	hashlib library for generating encryption keys by hash functions.
-•	tkinter library for GUI
+•	 ‘Crypto.cipher’ python library for secure communication
+•	 PyCryptodome 3.17 package for cryptographic features such as DES3
+•	 PIL Library for image processing
+•  hashlib library for generating encryption keys by hash functions.
+•	 tkinter library for GUI
